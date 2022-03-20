@@ -116,4 +116,13 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | MM08. 1D Fourier Transform  | 17:18| [[Stream link]](https://web.microsoftstream.com/video/af9611cc-c6b8-4ca0-b757-e197125eb03a) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM08.pdf) |
 | Problem Sheet MM02  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM02.pdf) |
 | Problem Sheet MM02  | - | Answers    | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM02-Solutions.pdf) |
-| Q&A Session  | - | - | - |
+| Q&A Session  | - | 22/03/2022 | - |
+
+#### Week 20: 22/03/2021 (Majid)
+| Lecture | Duration | video | slides |
+| ------ | ---- | --- | --- |
+| MM09. 2D Fourier Transform | 14:45 | [[Stream link]](https://web.microsoftstream.com/video/f8ec232a-6721-4169-8cbb-15c9d3b16fa3) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM09.pdf) |
+| MM10. Frequency Features | 19:16 | [[Stream link]](https://web.microsoftstream.com/video/3c156eba-ae94-43e8-8a1a-c24710d3ebb0) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM10.pdf) |
+| Problem Sheet MM03  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/ProblemSheet-MM03.pdf) |
+| Problem Sheet MM03  | - | Answers          | - |
+| Q&A Session  | - | 29/03/2022| -|
