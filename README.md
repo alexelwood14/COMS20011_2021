@@ -24,6 +24,9 @@ There will be "lab" exercises released in the "lab" folder.
 ## Mathematical background material
 Important: these are not pre-requisites!  Please don't try to look at all of the material!  They're intended as supplements to the first-year maths courses to help clear up specific issues with the derivations in the course.  Feel free to raise an issue/pull-request if you have recommendations for other resources.
 
+#### Probabilistic machine learning (relevant for Laurence's part of the course):
+  * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) [pdf](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) (Parts I - III are most relevant.  Obviously that's quite a bit, ranging from fundamentals to deep learning.  But different people will find different bits most relevant).
+
 #### Probability and statistics
   * A Modern Introduction to Probability and Statistics, Understanding Why and How (Dekking et al.)
   * [[MIT OpenCourseWare]](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
