@@ -119,7 +119,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | MM08. 1D Fourier Transform  | 17:18| [[Stream link]](https://web.microsoftstream.com/video/af9611cc-c6b8-4ca0-b757-e197125eb03a) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM08.pdf) |
 | Problem Sheet MM02  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM02.pdf) |
 | Problem Sheet MM02  | - | Answers | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM02-Solutions.pdf) |
-| Code to play with  | - | sines.py  [[sines.py]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/sines.py)   | |
+| Code to play with  | - |  [[sines.py]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/sines.py)   | |
 | Q&A Session  | 45:40 | [[Stream link]](https://web.microsoftstream.com/video/919ff36f-be51-487c-a95f-c0c243b2fbb8) | - |
 
 #### Week 20: 21/03/2021 (Majid)
@@ -129,5 +129,5 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | MM10. Frequency Features | 19:16 | [[Stream link]](https://web.microsoftstream.com/video/3c156eba-ae94-43e8-8a1a-c24710d3ebb0) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM10.pdf) |
 | Problem Sheet MM03  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM03.pdf) |
 | Problem Sheet MM03  | - | Answers  | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM03-Solutions.pdf) |
-| Code to play with  | - | FFT.py  [[FFT.py]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/FFT.py)   | |
+| Code to play with  | - |   [FFT.py](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/FFT.py)   | |
 | Q&A Session  | - | 29/03/2022| -|
