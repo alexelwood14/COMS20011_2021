@@ -132,7 +132,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | Code to play with  | - |   [FFT.py](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/FFT.py)   | |
 | Q&A Session  | - | 29/03/2022| -|
 
-#### Week 21: 19/04/2021 (Majid)   
+#### Week 21: 28/03/2021 (Majid)   
 | Lecture | Duration | video | slides |
 | ------ | ---- | --- | --- |
 | MM11. More on Features | 20:53 | [[Stream link]](https://web.microsoftstream.com/video/45dc3fde-a12e-409e-a50e-7f59beaac671) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM11.pdf) |
