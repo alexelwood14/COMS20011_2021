@@ -129,7 +129,7 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | MM10. Frequency Features | 19:16 | [[Stream link]](https://web.microsoftstream.com/video/3c156eba-ae94-43e8-8a1a-c24710d3ebb0) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM10.pdf) |
 | Problem Sheet MM03  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM03.pdf) |
 | Problem Sheet MM03  | - | Answers  | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM03-Solutions.pdf) |
-| Q&A Session  | - | 29/03/2022| -|
+| Q&A Session  | - | [Stream link]](https://web.microsoftstream.com/video/599e541a-73ba-4999-b9fb-46a376317970) | -|
 
 #### Week 21: 28/03/2021 (Majid)   
 | Lecture | Duration | video | slides |
