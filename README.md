@@ -138,4 +138,5 @@ Important: these are not pre-requisites!  Please don't try to look at all of the
 | MM12. Convolutions | 20:02 | [[Stream link]](https://web.microsoftstream.com/video/a049cbf2-a038-43c5-a1a9-8ef2a6823f23) | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/slides/COMS20011-MM12.pdf) |
 | Optional Playthings | *** | [[sobel.py]](https://github.com/LaurenceA/COMS20011_2020/tree/main/problemsheets/sobel.py) | [[FFT.py]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/FFT.py) |
 | Problem Sheet MM04  | - | Self/Group study | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM04.pdf) |
+| Problem Sheet MM04  | - | Answers  | [[pdf]](https://github.com/LaurenceA/COMS20011_2021/tree/main/problemsheets/ProblemSheet-MM04-Solutions.pdf) |
 | Q&A Session  | - | [[Stream link]] | After Easter Break  |
